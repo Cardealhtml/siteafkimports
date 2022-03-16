@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    background-color: #8b8a8a
+}
+.div1{
+    color: #D4FF03;
+    border: 10px solid #010100;
+    padding: 0px;
+    padding-bottom: 30px;  
+    font-size: 30px;
+    border: 0px;
+    background-image: url(img/Sem_titulo-1.png);
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.h1{
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    text-shadow: 5px 1px 6px #748811;
+    margin-bottom: 0px; 
+    margin-top: 0px;
+}
+.logoinsta, .logowpp{
+    
+    margin-top: 0px;
+    margin-right: 10px;
+}
+
+
+
+.Instagram{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+    color: #f3f3f3;
+    margin-bottom: 0px;
+
+}
+
+.logo{ 
+color: #f3f3f3;
+text-decoration: dotted;
+}
+
+.logo:hover{
+    color:#e2e2e2;
+    text-decoration: underline;
+    text-shadow: 1px 1px 0,5px #f3f3f3;
+}
+
+
+.flex-box{
+    background-color:#f3f3f3 ;
+    width: 400px;
+    height: 730px;
+    display: flex;
+    justify-content: center;
+    margin:auto
+}
+.content-box{ 
+text-align: center;
+
+}
+.namecadastro{
+    margin: 0px;
+    margin-top: 20px;
+    color:#585858;
+
+
+}
+
+label{
+    font-size: 20px;
+    color: #8b8a8a;
+    text-align: center;
+   
+
+}
+input{
+    font-size: 20px;
+    text-align: center;
+}
+
+button{
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid #b8b8b8;
+}
+button:hover{
+   
+    background-color:  #8b8a8a;
+}
+
+.titulo{
+    color:#D4FF03 ;
+text-decoration: dotted;
+}
+.titulo :hover{
+    color: #D4FF03;
+}
